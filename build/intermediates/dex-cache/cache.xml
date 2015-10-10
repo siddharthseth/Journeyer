@@ -2,39 +2,172 @@
 <items version="2" >
 
     <item
-        jar="/Users/lchou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-b072ce65e53eda95b5e0e464f00bb9d44fc28381.jar" />
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-47e1df3d468d9ba532898300826b798a6f3a0204.jar" />
     </item>
     <item
-        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-60c0aa3b5f7baf91d81b2600bea18f3d1c491720.jar" />
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-d70b9c1d4e96d81a6a6de56b4f1984bd9676f3fb.jar" />
     </item>
     <item
-        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-9279e35eedfd3ce7756df46727c42e02a8f83b73.jar" />
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-254f3c3471181ec14504f803bb02836ab7b947eb.jar" />
     </item>
     <item
-        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-ad68dd7f4add7900f9760a9f847a22fe1885612b.jar" />
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-c42752dd6cbedcecb42ba07c883913c4c9ae1367.jar" />
     </item>
     <item
-        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e4de2e996db0a79c1b3134a0e29d70cdf5e85333.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-b13be97439a2d0a7a08cdcb47db9a0fec2606df5.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-ce373a3112a1bd9b91022046c61f872ccb4cc9a8.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-f80e6d6c81bf96a273dda4e37e40cae10c498026.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-e373e39aced1a69db0ac0eba9e6016313b6d969b.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-6404fa990573cc684b4c5f4946d487c68ae669c5.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-959bfab385355434a286c4160d62a82a7d4ed81c.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-9ac26020f55a0fa2c13dd774188a85a353f750e3.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-edb95e77753f20f8850cc47e0db1a4a7bece1497.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-d7f8367ea7857f3e7e56c65376ec8f480ddc39e1.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-955c341db222e290d183452fb03214f5d032db7c.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-4f7c37c3358fdbdd674c741911a248f8df7f9af1.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-c9be2df5fb8ea18f0b6fc6e8fd8e04872bfaaccf.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-c9563ceaea8cb16b677bc1a161314841c19dfabb.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-52bd75ee2a3734f373574f0f6225ceec12a78949.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-b5aa06eaffa8f92ff856daa68170ab03f039916a.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-f5a7f99984881387600176eef7a8deb70cdbfdbf.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-79b599a0894290807bc2a825f04411c8eab3ecb1.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-eb04caec7c1dac01348a2dde0b5b110fc82fc885.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-0f9cfb675f3b5e21160a84585b95e47c6367a7ab.jar" />
+    </item>
+    <item
+        jar="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/lchou/AndroidStudioProjects/Journeyer/app/build/intermediates/pre-dexed/debug/classes-f63c45d16af9d89521a33f60eb21fda7b76b59fe.jar" />
     </item>
 
 </items>

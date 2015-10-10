@@ -16,4 +16,6 @@
     <string name="hostButton">Host</string>
     <string name="journeyerButton">Journeyer</string>
     <string name="whoAreYouText">Who are you?</string>
+    <string name="loginlogo">LoginLogo</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
