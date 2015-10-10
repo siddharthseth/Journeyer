@@ -13,4 +13,7 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="hostButton">Host</string>
+    <string name="journeyerButton">Journeyer</string>
+    <string name="whoAreYouText">Who are you?</string>
 </resources>
