@@ -8,7 +8,7 @@ import android.content.Intent;
 
 public class ChoiceActivity extends AppCompatActivity implements View.OnClickListener
 {
-    ImageButton hostButton;
+    ImageButton hostButton, journeyerButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,6 +16,9 @@ public class ChoiceActivity extends AppCompatActivity implements View.OnClickLis
         setContentView(R.layout.activity_choice);
         hostButton =(ImageButton)findViewById(R.id.hostButton);
         hostButton.setOnClickListener(this);
+
+        journeyerButton = (ImageButton)findViewById(R.id.journeyerButton);
+        journeyerButton.setOnClickListener(this);
     }
 
     @Override
@@ -28,6 +31,15 @@ public class ChoiceActivity extends AppCompatActivity implements View.OnClickLis
                     e.printStackTrace();
                 }
                 break;
+            case R.id.journeyerButton:
+                try {
+                    startActivity(new Intent(getApplicationContext(), BackUpActivity.class));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                break;
         }
     }
+
+
 }

@@ -43,9 +43,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void buttonFood(View v) {
         foodBoolean = !foodBoolean;
         v.setActivated(foodBoolean);
-        LatLng r8 = new LatLng(40.01, 33.03);
-        mMap.addMarker(new MarkerOptions().position(r8).title("TESTING")
-                .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_MAGENTA)));
     }
 
     public void buttonWater(View v) {
